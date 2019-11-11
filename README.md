@@ -39,7 +39,7 @@ Github link
 
 *الشاشة الرئيسية*
 
-[https://www.figma.com/file/C3h7aBugAswxrGqBpb6DS0/SoundSpot?node-id=30%3A1](Fimga)
+[Fimga](https://www.figma.com/file/C3h7aBugAswxrGqBpb6DS0/SoundSpot?node-id=30%3A1)
 
 
 ## بناء المشروع
